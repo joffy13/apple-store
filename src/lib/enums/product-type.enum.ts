@@ -1,0 +1,10 @@
+export enum ProductTypeEnum {
+    AIR_TAG="AIR_TAG",
+    COMPUTER="COMPUTER",
+    HEADPHONES="HEADPHONES",
+    HOME_KIT="HOME_KIT",
+    LAPTOP="LAPTOP",
+    MONITOR="MONITOR",
+    PHONE="PHONE",
+    TABLET="TABLET"
+}
